@@ -1,5 +1,10 @@
 Date.js 类似PHP Date函数的功能
 ===================================
+###Example###
+```
+date('Y-m-d');
+```
+
 ###Documentation###
 
 ######Day######
